@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dalviksystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/project/Test/ApiTest/lib/dalviksystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

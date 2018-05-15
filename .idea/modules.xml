@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project/Test/ApiTest/ApiTest.iml" filepath="$PROJECT_DIR$/project/Test/ApiTest/ApiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/Libraries/DroidPlugin/DroidPlugin.iml" filepath="$PROJECT_DIR$/project/Libraries/DroidPlugin/DroidPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/TestPlugin/TestPlugin.iml" filepath="$PROJECT_DIR$/project/TestPlugin/TestPlugin.iml" />
+    </modules>
+  </component>
+</project>
